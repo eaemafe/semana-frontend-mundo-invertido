@@ -1,4 +1,6 @@
-​                                ![img](https://media.tenor.com/o5-5sYmgcm0AAAAC/stranger-things.gif)    
+### [![DevSuperior logo](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/devsuperior-logo-small.png)](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/devsuperior-logo-small.png)  Projeto website estático:
+
+​                                                    <img src="https://media.tenor.com/o5-5sYmgcm0AAAAC/stranger-things.gif" alt="img" style="zoom:67%;" />    
 
 
 
