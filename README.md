@@ -1,6 +1,6 @@
-### [![DevSuperior logo](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/devsuperior-logo-small.png)](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/devsuperior-logo-small.png)  Projeto website estático:
+### [![DevSuperior logo](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/devsuperior-logo-small.png)](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/devsuperior-logo-small.png)  Projeto Landing Page com HTML e CSS | Integração com o Firebase com JavaScript:
 
-​                                                    <img src="https://media.tenor.com/o5-5sYmgcm0AAAAC/stranger-things.gif" alt="img" style="zoom:67%;" />    
+​                                                                <img src="https://media.tenor.com/o5-5sYmgcm0AAAAC/stranger-things.gif" alt="img" style="zoom: 50%;" />    
 
 
 
@@ -11,6 +11,8 @@
 - `Front end React`
 
 - `HTML/CSS`
+
+- `JavaScript`
 
   
 
